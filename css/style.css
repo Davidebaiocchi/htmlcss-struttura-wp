@@ -14,7 +14,7 @@
 /* MAIN */
 .container2 {   
     background-color: #e1d67a;
-    height: 300px;
+    height: 250px;
     margin: 20px 100px;
 }
 
@@ -28,7 +28,7 @@
 }
 
 .section4 {
-    height: 500px;
+    height: 400px;
     width: 351.5px;
     background-color:#abcfe7;
     border-left: 20px solid #0186fd ;
@@ -37,14 +37,14 @@
 }
 
 .section3 {
-    height: 500px;
+    height: 400px;
     width: 1000px;
     float: left;
     background-color: #abcfe7;
 }
 
 .section2 {
-    height: 500px;
+    height: 400px;
     width: 351.5px;
     background-color:#abcfe7;
     border-right: 20px solid #0186fd ;
@@ -57,7 +57,7 @@
     background-color: #8801fe;
     height: 30px;
     width: 1703px;
-    margin-top: 505px;
+    margin-top: 410px;
     margin-left: 100px;
     margin-bottom: 20px;
 }                   
