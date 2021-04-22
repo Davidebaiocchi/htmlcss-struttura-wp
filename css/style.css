@@ -7,33 +7,58 @@
 /* HEADER */
 .container1 {
     background-color: #e579e6;
-    height: 60px;
-    margin: 20px 60px;
+    height: 80px;
+    margin: 20px 100px;
 }
 
 /* MAIN */
 .container2 {   
     background-color: #e1d67a;
-    height: 250px;
-    margin: 20px 60px;
+    height: 300px;
+    margin: 20px 100px;
 }
 
 /* SECONDA PARTE MAIN */
 .section1 {
     background-color: #abcfe7;
-    height: 60px;
-    margin: 20px 60px;
-    border-bottom: 15px solid #0186fd ;
-}
-
-.section2 {
-    
-}
-
-.section3 {
-    
+    height: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-bottom: 20px solid #0186fd ;
 }
 
 .section4 {
-    
+    height: 500px;
+    width: 351.5px;
+    background-color:#abcfe7;
+    border-left: 20px solid #0186fd ;
+    margin-right: 100px;
+    float: left;
 }
+
+.section3 {
+    height: 500px;
+    width: 1000px;
+    float: left;
+    background-color: #abcfe7;
+}
+
+.section2 {
+    height: 500px;
+    width: 351.5px;
+    background-color:#abcfe7;
+    border-right: 20px solid #0186fd ;
+    margin-left: 100px;
+    float: left;  
+}
+                   
+/* FOOTER */                   
+.container4 {                   
+    background-color: #8801fe;
+    height: 30px;
+    width: 1703px;
+    margin-top: 505px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}                   
+
