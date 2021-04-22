@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* HEADER */
+.container1 {
+    background-color: #e579e6;
+    height: 60px;
+    margin: 20px 60px;
+}
+
+/* MAIN */
+.container2 {   
+    background-color: #e1d67a;
+    height: 250px;
+    margin: 20px 60px;
+}
+
+/* SECONDA PARTE MAIN */
+.section1 {
+    background-color: #abcfe7;
+    height: 60px;
+    margin: 20px 60px;
+    border-bottom: 15px solid #0186fd ;
+}
+
+.section2 {
+    
+}
+
+.section3 {
+    
+}
+
+.section4 {
+    
+}
