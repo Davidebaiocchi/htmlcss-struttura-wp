@@ -19,6 +19,12 @@
 }
 
 /* SECONDA PARTE MAIN */
+.container3::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
 .section1 {
     background-color: #abcfe7;
     height: 150px;
@@ -60,7 +66,7 @@
     background-color: #8801fe;
     height: 30px;
     width: 1703px;
-    margin-top: 410px;
+    margin-top: 10px;
     margin-left: 100px;
     margin-bottom: 20px;
 }                   
